@@ -84,7 +84,6 @@
 
 ## 🧠 Interests
 
-- Robotics  
 - Reinforcement Learning  
 - Motion Planning (OMPL, TAMP)  
 - Perception  
