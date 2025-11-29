@@ -72,10 +72,10 @@
 
 ## 📊 GitHub Stats
 
-<p align="left">
+<!-- <p align="left">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=NishanthAdithya&show_icons=true&theme=tokyonight" />
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NishanthAdithya&layout=compact&theme=tokyonight" />
-</p>
+</p> -->
 
 ---
 
@@ -84,12 +84,11 @@
 - Robotics  
 - Reinforcement Learning  
 - Motion Planning (OMPL, TAMP)  
-- Quadrotor Control  
-- Computer Vision  
+- Perception  
 - Autonomous Systems  
 
 ---
 
 ## ✨ Fun Little Note  
 I love building robots… and sometimes they love destroying themselves.  
-Work in progress: **Building a robotics company that gets kids excited about robots.**
+Backend: **Building a robotics company that gets kids excited about robots.**
