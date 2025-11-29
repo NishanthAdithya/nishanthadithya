@@ -73,7 +73,7 @@
 
 ---
 
-## 📊 GitHub Stats
+<!--## 📊 GitHub Stats>
 
 <!-- <p align="left">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=NishanthAdithya&show_icons=true&theme=tokyonight" />
