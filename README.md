@@ -38,6 +38,7 @@
 
 <p align="left">
   <img src="https://img.shields.io/badge/C_C++-00599C?logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/C_C++-00599C?logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />  
   <img src="https://img.shields.io/badge/ROS2-22314E?logo=ros&logoColor=white" />
   <img src="https://img.shields.io/badge/Numpy-013243?logo=numpy&logoColor=white" />
