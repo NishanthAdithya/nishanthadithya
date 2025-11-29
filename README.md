@@ -2,14 +2,14 @@
 
 ## 👤 About Me
 
-- **Hi, I'm Nishanth Adithya Chandramouli**
-- MS in **Robotics Engineering @ WPI**  
-- Former **Project Associate @ IIT Madras** (Robotics Lab)
-- Research in **Computational Kinematics, RL-based Navigation, Quadrotor Autonomy, TAMP, ROS2, MoveIt2**
-- Passionate about building **robotics systems end-to-end** — design → simulation → control → autonomy
-- Creator of **@DrNizz_BingBang** (BGMI content)
-- 🚀 Fun Fact: I break robots, fix them, then break them *better*.
-
+👋 Hello, I’m Nishanth Adithya Chandramouli  
+🤖 I’m pursuing my Master’s in Robotics Engineering at Worcester Polytechnic Institute (WPI).  
+🔬 Previously, I worked as a Project Associate at the Robotics Lab, IIT Madras, focusing on computational kinematics, Stewart platforms, and collision detection for collaborative robots.  
+🚁 My current research at WPI explores reinforcement learning–based quadrotor navigation, TAMP pipelines, geodesic-sphere drone design, and safe autonomy using VizFlyt simulations. 
+📚 I’ve authored multiple research papers (under review) in robotics, machine learning, and composite machining, and I love turning creative problem-solving ideas into publishable results.  
+🤝 I’m open to collaborations in Robotics, AI, Motion Planning, RL, and Perception.  
+📫 Reach me at: nchandramouli@wpi.edu 
+⚡ Fun fact: I break robots, fix them, and break them *better*.  
 ---
 
 ## 🔗 Find Me At
