@@ -71,7 +71,7 @@
   <img src="https://img.shields.io/badge/SolidWorks-DA291C?style=flat-square&logo=dassaultsystemes&logoColor=white" style="transform: scale(2.0);" />
 </p>
 
----
+
 
 <!--## 📊 GitHub Stats>
 
