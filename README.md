@@ -66,6 +66,9 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" style="transform: scale(2.0);" />
   <img src="https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white" style="transform: scale(2.0);" />
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white" style="transform: scale(2.0);" />
+
+  <img src="https://img.shields.io/badge/ANSYS-FFB71B?style=flat-square&logo=ansys&logoColor=black" style="transform: scale(2.0);" />
+  <img src="https://img.shields.io/badge/SolidWorks-DA291C?style=flat-square&logo=dassaultsystemes&logoColor=white" style="transform: scale(2.0);" />
 </p>
 
 ---
