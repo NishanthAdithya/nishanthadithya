@@ -91,4 +91,4 @@
 
 ## ✨ Fun Little Note  
 I love building robots… and sometimes they love destroying themselves.  
-Backend: **Building a robotics company that gets kids excited about robots.**
+In the backend: **Building a robotics company that gets kids excited about robots.**
