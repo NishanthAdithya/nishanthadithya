@@ -8,7 +8,7 @@
 🚁 My current research at WPI explores reinforcement learning–based quadrotor navigation, TAMP pipelines, geodesic-sphere drone design, and safe autonomy using ROS2, MoveIt2, PyTorch, and Genesis/VizFlyt simulations.  
 📚 I’ve authored multiple research papers in robotics and I love turning creative problem-solving ideas into publishable results.  
 🤝 I’m open to collaborations in Robotics, AI, Motion Planning, RL, and Perception.  
-📫 Freel free to reach out to me at: nchandramouli@wpi.edu  
+📫 Feel free to reach out to me at: nchandramouli@wpi.edu  
 ⚡ Fun fact: I break robots, fix them, and break them *better*.  
 
 ---
