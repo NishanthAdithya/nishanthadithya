@@ -89,8 +89,3 @@
 - Perception  
 - Autonomous Systems  
 
----
-
-## ✨ Fun Little Note  
-I love building robots… and sometimes they love destroying themselves.  
-In the backend: **Building a robotics company that gets kids excited about robots.**
