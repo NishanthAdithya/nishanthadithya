@@ -85,7 +85,7 @@
 ## 🧠 Interests
 
 - Reinforcement Learning  
-- Motion Planning (OMPL, TAMP)  
-- Perception  
-- Autonomous Systems  
+- Motion Planning
+- Computer Vision  
+- Linear Algebra 
 
