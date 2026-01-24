@@ -13,7 +13,7 @@ You can reach me at: nchandramouli@wpi.edu
 
 ---
 
-## 🔗 Find Me At
+## Find Me At
 
 <p align="left">
   <a href="https://www.linkedin.com/in/nishanth-adithya-chandramouli-0245981ab/">
@@ -35,7 +35,7 @@ You can reach me at: nchandramouli@wpi.edu
 
 ---
 
-## 🛠️ Languages and Tools
+## Languages and Tools
 <p>
   <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" style="transform: scale(2.0);" />
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" style="transform: scale(2.0);" />
@@ -73,16 +73,16 @@ You can reach me at: nchandramouli@wpi.edu
 
 
 
-<!--## 📊 GitHub Stats>
+## GitHub Stats
 
-<!-- <p align="left">
+ <p align="left">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=NishanthAdithya&show_icons=true&theme=tokyonight" />
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NishanthAdithya&layout=compact&theme=tokyonight" />
-</p> -->
+</p> 
 
 ---
 
-## 🧠 Interests
+## Interests
 
 - Reinforcement Learning  
 - Motion Planning
