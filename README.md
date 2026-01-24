@@ -10,6 +10,7 @@ At WPI, my research explores reinforcement learning–based quadrotor navigation
 I enjoy translating creative robotics ideas into rigorous, publishable research and am open to collaborations in Robotics, AI, Motion Planning, Reinforcement Learning, and Perception.
 
 You can reach me at: nchandramouli@wpi.edu
+
 ---
 
 ## 🔗 Find Me At
