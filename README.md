@@ -73,12 +73,12 @@ You can reach me at: nchandramouli@wpi.edu
 
 
 
-## GitHub Stats
+<!--## GitHub Stats>
 
- <p align="left">
+ <!--<p align="left">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=NishanthAdithya&show_icons=true&theme=tokyonight" />
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NishanthAdithya&layout=compact&theme=tokyonight" />
-</p> 
+</p> -->
 
 ---
 
