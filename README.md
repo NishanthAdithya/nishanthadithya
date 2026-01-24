@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello Everyone!</h1>
+<h1 align="center">Hello Everyone!</h1>
 
 Hello, I’m Nishanth Adithya Chandramouli.
 I’m pursuing my Master’s in Robotics Engineering at Worcester Polytechnic Institute (WPI).
