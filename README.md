@@ -78,14 +78,7 @@ You can reach me at: nchandramouli@wpi.edu
  <!--<p align="left">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=NishanthAdithya&show_icons=true&theme=tokyonight" />
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NishanthAdithya&layout=compact&theme=tokyonight" />
-</p> -->
+</p> 
 
 ---
-
-## Interests
-
-- Reinforcement Learning  
-- Motion Planning
-- Computer Vision  
-- Linear Algebra 
 
