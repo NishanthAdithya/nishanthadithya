@@ -3,7 +3,7 @@
 Hello, I’m Nishanth Adithya Chandramouli.
 I’m pursuing my Master’s in Robotics Engineering at Worcester Polytechnic Institute (WPI).
 
-Previously, I worked as a Project Associate at the Robotics Lab, IIT Madras, where I focused on computational kinematics, Stewart platforms, and collision detection for collaborative robots.
+Previously, I worked as a Project Associate at the Robotics Lab, IIT Madras, where I focused on computational algerbra and collision detection for collaborative robots using 3D geometry.
 
 At WPI, my research explores reinforcement learning–based quadrotor navigation, Task and Motion Planning (TAMP), geodesic-sphere drone design, and safe autonomy using ROS 2, MoveIt 2, PyTorch, and Genesis/VizFlyt simulations.
 
