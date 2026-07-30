@@ -5,7 +5,7 @@ I’m pursuing my Master’s in Robotics Engineering at Worcester Polytechnic In
 
 Previously, I worked as a Project Associate at the Robotics Lab, IIT Madras, where I focused on computational algerbra and collision detection for collaborative robots using 3D geometry.
 
-At WPI, my research explores reinforcement learning–based quadrotor navigation, Task and Motion Planning (TAMP), geodesic-sphere drone design, and safe autonomy using ROS 2, MoveIt 2, PyTorch, and Genesis/VizFlyt simulations.
+At WPI, my research explores reinforcement learning–based quadrotor navigation, Task and Motion Planning (TAMP), geodesic-sphere drone design, and safe autonomy using ROS 2, PyTorch, and Genesis/VizFlyt simulations.
 
 I enjoy translating creative robotics ideas into rigorous, publishable research and am open to collaborations in Robotics, AI, Motion Planning, Reinforcement Learning, and Perception.
 
