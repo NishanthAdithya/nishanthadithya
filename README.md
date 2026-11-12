@@ -1,8 +1,8 @@
 <h1 align="center">Hello Everyone!</h1>
 
-Hello, I'm Nishanth Adithya Chandramouli, pursuing my M.S. in Robotics Engineering at Worcester Polytechnic Institute (WPI) as a Provost Scholar (expected May 2027), after a B.Tech. in Mechanical Engineering (Honors) at SASTRA University.
+Hello, I'm Nishanth Adithya Chandramouli, pursuing my M.S. in Robotics Engineering at Worcester Polytechnic Institute (WPI) as a Provost Scholar (expected May 2027).
 
-I'm currently a Robotics Engineering Intern at **Pathon Robotics** in San Francisco, building a 25-DoF bimanual mobile manipulator for autonomous restaurant service: imitation-learning policies (ACT, π₀ / π₀.₅, SmolVLA), multi-sensor calibration and LiDAR-inertial SLAM.
+I'm currently a Robotics Engineering Intern at **Pathon Robotics** in San Francisco, building a 25-DoF bimanual mobile manipulator for autonomous restaurant service: Imitation-learning policies (ACT, π₀ / π₀.₅, SmolVLA), Multi-sensor calibration and LiDAR-inertial SLAM.
 
 At WPI I was a Directed Researcher in the Manipulation and Environmental Robotics Lab with Prof. Berk Calli, working on dexterous picking with deep learning and reinforcement learning. Before that I was a Research Associate in the Manipulators Robotics Group at IIT Madras, where I worked on computational algebra, real-time collision detection and path planning for parallel manipulators.
 
